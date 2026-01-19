@@ -96,9 +96,11 @@ color: #434455;
         letter-spacing: 0.02em;
         color: #434455;
 }
-.team-section,
-.team-list-item{
+.team-section{
 background-color: #f4f4fd;
+}
+.team-list-item{
+    background-color: #fff;
 }
 .team-title{
     font-weight: 700;
