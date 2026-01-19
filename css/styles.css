@@ -58,7 +58,7 @@ color: #434455;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
-    text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    text-shadow: rgba(0, 0, 0, 0.25);
 }
 .hero{
     background-color: #2e2f42;
@@ -96,8 +96,9 @@ color: #434455;
         letter-spacing: 0.02em;
         color: #434455;
 }
-.team-section{
-    background-color: #f4f4fd;
+.team-section,
+.team-list-item{
+background-color: #f4f4fd;
 }
 .team-title{
     font-weight: 700;
